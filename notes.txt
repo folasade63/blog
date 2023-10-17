@@ -1,0 +1,20 @@
+###################################
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.author-details {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+align items => vertical |
+justify content => horizontal __
